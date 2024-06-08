@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Hi, I'm Tuyen, I'm 21 years old and I’m currently learning Bachelor of Computer Networks and Data Communications<br>
+🔭 Hi, I'm Tuyen, I'm 21 years old and I’m currently learning Bachelor of Computer Networks and Data Communications at University Of Information (UIT)<br>
 
 ## 🌐 Socials:
 
