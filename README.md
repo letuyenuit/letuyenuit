@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Hi, I'm Tuyen, I'm 21 years old and I’m currently learning Bachelor of Computer Networks and Data Communications<br>
+🔭 Hi, I'm Tuyen, I’m currently learning Bachelor of Computer Networks and Data Communications<br>
 🌱 I’m currently learning and impove AWS cloud, and tools for automate build infrastructure like Terraform, Cloudformation
 ## 🌐 Socials:
 
