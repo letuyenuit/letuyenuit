@@ -12,20 +12,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=letuyenuit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=letuyenuit&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=letuyenuit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=letuyenuit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/letuyen.coffee) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/letuyen.paypal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/letuyenpartion) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kofiletuyen)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex;">
+  <div style="flex: 1; border: 1px solid #000;">
+    ![](https://github-readme-stats.vercel.app/api?username=letuyenuit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  </div>
+  <div style="flex: 1; border: 1px solid #000;">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=letuyenuit&theme=dark&hide_border=false)
+  </div>
+  <div style="flex: 1; border: 1px solid #000;">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=letuyenuit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  </div>
+</div>
