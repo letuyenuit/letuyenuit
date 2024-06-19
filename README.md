@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 🔭 Hi, I'm Tuyen, I’m currently learning Bachelor of Computer Networks and Data Communications<br>
-🌱 I’m currently learning and impove AWS cloud, and tools for automate build infrastructure like Terraform, Cloudformation
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100055907725037) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/letuyenkhtn2122/)
